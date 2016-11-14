@@ -10,3 +10,4 @@ Git spurningar og svör
         it prints the name of the working directory.
 	mkdir
 	it's used to create directories on a file system.
+bjarki
