@@ -1,1 +1,12 @@
 Git spurningar og svör
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd
+	it's used to change the current directory
+	cd ~
+	it allows you to return directly to the home directory
+	ls
+	it lists directory contents
+	pwd
+        it prints the name of the working directory.
+	mkdir
+	it's used to create directories on a file system.
